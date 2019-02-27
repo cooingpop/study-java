@@ -1,4 +1,4 @@
-# study-java
+# Java - Inheritance & Overriding
 
 ```
 class Poly {
