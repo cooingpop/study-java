@@ -1,5 +1,6 @@
 # study-java
 
+```
 class Poly {
 
     private int width;
@@ -70,3 +71,4 @@ public class Test10 {
 	}
 
 }
+```
